@@ -7,7 +7,9 @@
     {"id":{"name":"objwelcome","path":"objects/objwelcome/objwelcome.yy",},"order":1,},
     {"id":{"name":"RoomLevel1","path":"rooms/RoomLevel1/RoomLevel1.yy",},"order":1,},
     {"id":{"name":"sprwelcome","path":"sprites/sprwelcome/sprwelcome.yy",},"order":1,},
+    {"id":{"name":"objblock","path":"objects/objblock/objblock.yy",},"order":2,},
     {"id":{"name":"sprknight","path":"sprites/sprknight/sprknight.yy",},"order":0,},
+    {"id":{"name":"sprblock","path":"sprites/sprblock/sprblock.yy",},"order":2,},
     {"id":{"name":"RoomWelcome","path":"rooms/RoomWelcome/RoomWelcome.yy",},"order":0,},
   ],
   "Options": [
