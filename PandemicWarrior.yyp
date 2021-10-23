@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"RoomGameOver","path":"rooms/RoomGameOver/RoomGameOver.yy",},"order":3,},
+    {"id":{"name":"objsword","path":"objects/objsword/objsword.yy",},"order":4,},
     {"id":{"name":"RoomLevel3","path":"rooms/RoomLevel3/RoomLevel3.yy",},"order":4,},
     {"id":{"name":"objknight","path":"objects/objknight/objknight.yy",},"order":0,},
     {"id":{"name":"RoomLevel2","path":"rooms/RoomLevel2/RoomLevel2.yy",},"order":2,},
@@ -9,7 +10,10 @@
     {"id":{"name":"sprwelcome","path":"sprites/sprwelcome/sprwelcome.yy",},"order":1,},
     {"id":{"name":"objblock","path":"objects/objblock/objblock.yy",},"order":2,},
     {"id":{"name":"sprknight","path":"sprites/sprknight/sprknight.yy",},"order":0,},
+    {"id":{"name":"sprpotion","path":"sprites/sprpotion/sprpotion.yy",},"order":3,},
     {"id":{"name":"sprblock","path":"sprites/sprblock/sprblock.yy",},"order":2,},
+    {"id":{"name":"sprsword","path":"sprites/sprsword/sprsword.yy",},"order":4,},
+    {"id":{"name":"objpotion","path":"objects/objpotion/objpotion.yy",},"order":3,},
     {"id":{"name":"RoomWelcome","path":"rooms/RoomWelcome/RoomWelcome.yy",},"order":0,},
   ],
   "Options": [

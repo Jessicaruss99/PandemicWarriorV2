@@ -22,6 +22,10 @@ if(instance_place(x,y+1,objblock)){
 		gravity =.5;
 	}
 	
+	if(keyboard_check_pressed(ord("Z"))){
+	instance_create_layer(x,y,"Instances", objsword)
+}
+	
 
 
 
