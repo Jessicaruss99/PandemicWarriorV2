@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.gamePaused = false
-global.game_over = false
 
-lives = 3
-score = 0
+lives -= 1
+
+if (lives > 0) {	
+	room_restart()
+} else {
+	global.game_over = true
+}
