@@ -6,17 +6,23 @@ function KnightMove(){
 if (keyboard_check_pressed(ord("1"))) {
 	instance_create_layer(x, y, "Instances", objsword)	
 }
+	image_speed=1;
+
 	
 if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, objblock)) {
+	sprite_index = sprknightwalkleft;
 	x += -move_speed;
 	image_speed= move_speed/3;
-	image_xscale = 1;
+	
+	//image_xscale = 1;
 }
 
 if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, objblock)) {
 	x += move_speed;
 	image_speed=move_speed/3;
-	image_xscale =- 1;
+	sprite_index = sprknightwalkright;
+	//image_xscale = image_xscale*-1;
+	
 }
 
 if (keyboard_check(vk_up)){
@@ -24,6 +30,10 @@ if (keyboard_check(vk_up)){
 		vspeed = jump_height;
 	}
 }
+//if(!keyboard_check(vk_up) and !keyboard_check(vk_left) and !keyboard_check(vk_right) ){
+//	image_speed=1;
+//sprite_index = sprknight;
+//}
 
 if(instance_place(x, y+1, objblock)){
 		gravity = 0;

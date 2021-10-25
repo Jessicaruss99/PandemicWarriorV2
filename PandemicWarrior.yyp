@@ -14,6 +14,7 @@
     {"id":{"name":"KnightPause","path":"scripts/KnightPause/KnightPause.yy",},"order":2,},
     {"id":{"name":"objGameOverLose","path":"objects/objGameOverLose/objGameOverLose.yy",},"order":15,},
     {"id":{"name":"objknight","path":"objects/objknight/objknight.yy",},"order":0,},
+    {"id":{"name":"sprknightwalkleft","path":"sprites/sprknightwalkleft/sprknightwalkleft.yy",},"order":20,},
     {"id":{"name":"objLadder","path":"objects/objLadder/objLadder.yy",},"order":4,},
     {"id":{"name":"RoomLevel2","path":"rooms/RoomLevel2/RoomLevel2.yy",},"order":2,},
     {"id":{"name":"KnightMove","path":"scripts/KnightMove/KnightMove.yy",},"order":1,},
@@ -53,6 +54,7 @@
     {"id":{"name":"sprPlayButton","path":"sprites/sprPlayButton/sprPlayButton.yy",},"order":1,},
     {"id":{"name":"sprAcid","path":"sprites/sprAcid/sprAcid.yy",},"order":0,},
     {"id":{"name":"objTutorialButton","path":"objects/objTutorialButton/objTutorialButton.yy",},"order":14,},
+    {"id":{"name":"sprknightwalkright","path":"sprites/sprknightwalkright/sprknightwalkright.yy",},"order":19,},
     {"id":{"name":"RoomWelcome","path":"rooms/RoomWelcome/RoomWelcome.yy",},"order":0,},
   ],
   "Options": [
