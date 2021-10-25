@@ -17,7 +17,7 @@ if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, objblock)) {
 	image_xscale =- 1;
 }
 
-if (keyboard_check(vk_space)){
+if (keyboard_check(vk_up)){
 	if(instance_place(x, y+1, objblock)){
 		vspeed = jump_height;
 	}
