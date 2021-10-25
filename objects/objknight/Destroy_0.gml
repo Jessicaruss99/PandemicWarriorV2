@@ -7,4 +7,5 @@ if (lives > 0) {
 	room_restart()
 } else {
 	global.game_over = true
+	room_goto(RoomGameOverLose);
 }
