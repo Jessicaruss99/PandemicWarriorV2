@@ -9,11 +9,13 @@ if (keyboard_check_pressed(ord("1"))) {
 	
 if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, objblock)) {
 	x += -move_speed;
+	image_speed= move_speed/3;
 	image_xscale = 1;
 }
 
 if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, objblock)) {
 	x += move_speed;
+	image_speed=move_speed/3;
 	image_xscale =- 1;
 }
 
