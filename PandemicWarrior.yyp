@@ -23,6 +23,7 @@
     {"id":{"name":"sprTiles","path":"sprites/sprTiles/sprTiles.yy",},"order":0,},
     {"id":{"name":"sprClick","path":"sprites/sprClick/sprClick.yy",},"order":2,},
     {"id":{"name":"sprLife","path":"sprites/sprLife/sprLife.yy",},"order":11,},
+    {"id":{"name":"objController","path":"objects/objController/objController.yy",},"order":18,},
     {"id":{"name":"RoomTutorial","path":"rooms/RoomTutorial/RoomTutorial.yy",},"order":1,},
     {"id":{"name":"sprGameWin","path":"sprites/sprGameWin/sprGameWin.yy",},"order":3,},
     {"id":{"name":"sprVirus","path":"sprites/sprVirus/sprVirus.yy",},"order":12,},
