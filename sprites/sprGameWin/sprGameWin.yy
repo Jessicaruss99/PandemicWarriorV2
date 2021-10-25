@@ -10,12 +10,12 @@
   "bbox_left": 0,
   "bbox_right": 1727,
   "bbox_top": 0,
-  "bbox_bottom": 1244,
+  "bbox_bottom": 998,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 1728,
-  "height": 1245,
+  "height": 999,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"07e36275-a881-4e4e-aa77-c08ac7661213","path":"sprites/sprGameLose/sprGameLose.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"07e36275-a881-4e4e-aa77-c08ac7661213","path":"sprites/sprGameLose/sprGameLose.yy",},"LayerId":{"name":"0c55f5e6-e17b-4c4c-87c8-aaf8ab01bfa1","path":"sprites/sprGameLose/sprGameLose.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprGameLose","path":"sprites/sprGameLose/sprGameLose.yy",},"resourceVersion":"1.0","name":"07e36275-a881-4e4e-aa77-c08ac7661213","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d95b12e3-5f08-4951-88dd-faf83d4dff15","path":"sprites/sprGameWin/sprGameWin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d95b12e3-5f08-4951-88dd-faf83d4dff15","path":"sprites/sprGameWin/sprGameWin.yy",},"LayerId":{"name":"195fa0ea-d8dd-4c17-8da3-4ddb36125041","path":"sprites/sprGameWin/sprGameWin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sprGameWin","path":"sprites/sprGameWin/sprGameWin.yy",},"resourceVersion":"1.0","name":"d95b12e3-5f08-4951-88dd-faf83d4dff15","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sprGameLose","path":"sprites/sprGameLose/sprGameLose.yy",},
+    "spriteId": {"name":"sprGameWin","path":"sprites/sprGameWin/sprGameWin.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ebb9ca1f-05e3-4025-a90e-3903ca123a1c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07e36275-a881-4e4e-aa77-c08ac7661213","path":"sprites/sprGameLose/sprGameLose.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"96981122-b6cc-4671-acb8-bfe59e2fb590","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d95b12e3-5f08-4951-88dd-faf83d4dff15","path":"sprites/sprGameWin/sprGameWin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sprGameLose","path":"sprites/sprGameLose/sprGameLose.yy",},
+    "parent": {"name":"sprGameWin","path":"sprites/sprGameWin/sprGameWin.yy",},
     "resourceVersion": "1.3",
-    "name": "sprGameLose",
+    "name": "sprGameWin",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0c55f5e6-e17b-4c4c-87c8-aaf8ab01bfa1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"195fa0ea-d8dd-4c17-8da3-4ddb36125041","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Screens.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sprGameLose",
+  "name": "sprGameWin",
   "tags": [],
   "resourceType": "GMSprite",
 }
