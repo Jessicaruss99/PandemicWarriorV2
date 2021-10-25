@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"RoomCredits","path":"rooms/RoomCredits/RoomCredits.yy",},"order":7,},
     {"id":{"name":"KnightClimb","path":"scripts/KnightClimb/KnightClimb.yy",},"order":3,},
     {"id":{"name":"RoomLevel1","path":"rooms/RoomLevel1/RoomLevel1.yy",},"order":5,},
     {"id":{"name":"sprTutorialButton","path":"sprites/sprTutorialButton/sprTutorialButton.yy",},"order":2,},
@@ -8,6 +9,7 @@
     {"id":{"name":"RoomGameOverWin","path":"rooms/RoomGameOverWin/RoomGameOverWin.yy",},"order":3,},
     {"id":{"name":"sprGameLose","path":"sprites/sprGameLose/sprGameLose.yy",},"order":1,},
     {"id":{"name":"objsword","path":"objects/objsword/objsword.yy",},"order":4,},
+    {"id":{"name":"objCreditScreen","path":"objects/objCreditScreen/objCreditScreen.yy",},"order":16,},
     {"id":{"name":"RoomLevel3","path":"rooms/RoomLevel3/RoomLevel3.yy",},"order":4,},
     {"id":{"name":"KnightPause","path":"scripts/KnightPause/KnightPause.yy",},"order":2,},
     {"id":{"name":"objGameOverLose","path":"objects/objGameOverLose/objGameOverLose.yy",},"order":15,},
@@ -34,10 +36,10 @@
     {"id":{"name":"sprVirusDead","path":"sprites/sprVirusDead/sprVirusDead.yy",},"order":13,},
     {"id":{"name":"objVirus","path":"objects/objVirus/objVirus.yy",},"order":10,},
     {"id":{"name":"CreateTextBox","path":"scripts/CreateTextBox/CreateTextBox.yy",},"order":0,},
-    {"id":{"name":"RoomCredits","path":"rooms/RoomCredits/RoomCredits.yy",},"order":7,},
     {"id":{"name":"sprLadder","path":"sprites/sprLadder/sprLadder.yy",},"order":3,},
     {"id":{"name":"fontSign","path":"fonts/fontSign/fontSign.yy",},"order":0,},
     {"id":{"name":"sprMarker","path":"sprites/sprMarker/sprMarker.yy",},"order":4,},
+    {"id":{"name":"sprCreditscreen","path":"sprites/sprCreditscreen/sprCreditscreen.yy",},"order":2,},
     {"id":{"name":"objSignText","path":"objects/objSignText/objSignText.yy",},"order":3,},
     {"id":{"name":"sprpotion","path":"sprites/sprpotion/sprpotion.yy",},"order":3,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":7,},
