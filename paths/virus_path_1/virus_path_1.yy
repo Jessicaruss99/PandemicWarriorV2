@@ -26,8 +26,8 @@
     {"speed":100.0,"x":608.0,"y":352.0,},
   ],
   "parent": {
-    "name": "PandemicWarrior",
-    "path": "PandemicWarrior.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "virus_path_1",

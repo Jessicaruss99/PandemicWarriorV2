@@ -10,8 +10,8 @@
     {"speed":100.0,"x":512.0,"y":448.0,},
   ],
   "parent": {
-    "name": "PandemicWarrior",
-    "path": "PandemicWarrior.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "zombie_path_1",
