@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-alarm_set(0, 120)
+
+path_start(walk_path, hsp, path_action_restart, true);

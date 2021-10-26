@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sprVirusDead",
-    "path": "sprites/sprVirusDead/sprVirusDead.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -30,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objVirusDead",
+  "name": "objzombiedead",
   "tags": [],
   "resourceType": "GMObject",
 }
