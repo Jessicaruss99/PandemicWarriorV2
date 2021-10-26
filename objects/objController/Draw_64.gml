@@ -14,6 +14,7 @@ draw_text(55, 45, "Score: " + string(score))
 
 if(room == RoomTutorial){
 draw_text(175, 45, "Tutorial");
+
 }
 if(room == RoomLevel1){
 	draw_text(175, 45, "Level 1");

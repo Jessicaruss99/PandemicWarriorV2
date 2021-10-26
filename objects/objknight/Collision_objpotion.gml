@@ -5,7 +5,7 @@ instance_destroy(other);
 lives += 1
 score +=5;
 
-	//audio_play_sound(snd_potion,1, false);
+	//audio_play_sound(snd_potion,4, false);
 
 //play some music
 //add to score

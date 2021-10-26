@@ -37,6 +37,7 @@ if (keyboard_check(vk_up)){
 		//if(sprite_index=sprknightwalkleft){
 		//	sprite_index=sprknightjumpleft
 		//}
+		audio_play_sound(snd_jump,5, false);
 		vspeed = jump_height;
 		
 	}

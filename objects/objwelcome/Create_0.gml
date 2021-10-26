@@ -5,3 +5,4 @@ global.game_over = false
 
 lives = 3
 score = 0
+audio_play_sound(snd_welcome,3, true);
