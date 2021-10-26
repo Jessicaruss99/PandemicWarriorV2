@@ -11,3 +11,12 @@
 //	}
 //}
 
+//if path_position=1{
+	
+//	if(sprite_index = sprzombiewalkright){
+//		sprite_index = sprzombiewalkleft
+//	}else{
+		
+//	sprite_index = sprzombiewalkright;
+//	}
+//}
