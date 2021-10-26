@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_colour($FFBFFBFF);
-draw_rectangle(50, 5, 150, 45, false)
+draw_rectangle(50, 5, 250, 45, false)
 
 /*TODO Write Lives code here */
 for (var i = 0; i < lives; i += 1)
@@ -10,20 +10,20 @@ for (var i = 0; i < lives; i += 1)
 }
 
 draw_set_halign(fa_left)
-draw_text(55, 55, "Score: " + string(score))
+draw_text(55, 45, "Score: " + string(score))
 
 if(room == RoomTutorial){
-draw_text(175, 10, "Tutorial");
+draw_text(175, 45, "Tutorial");
 }
 if(room == RoomLevel1){
-	draw_text(175, 10, "Level 1");
+	draw_text(175, 45, "Level 1");
 }
 if(room == RoomLevel2){
-		draw_text(175, 10,"Level 2");
+		draw_text(175, 45,"Level 2");
 	
 }
 if(room == RoomLevel3){
-		draw_text(175, 10, "Level 3");
+		draw_text(175, 45, "Level 3");
 	
 }
 
