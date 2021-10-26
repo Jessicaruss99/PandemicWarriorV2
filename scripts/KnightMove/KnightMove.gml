@@ -6,6 +6,9 @@ function KnightMove(){
 if (keyboard_check_pressed(ord("1"))) {
 	instance_create_layer(x, y, "Instances", objsword)	
 }
+if(keyboard_check_pressed(ord("Z"))){
+	instance_create_layer(x,y,"Instances", objsword)
+}
 
 		image_speed=1;
 //sprite_index = sprknight;
