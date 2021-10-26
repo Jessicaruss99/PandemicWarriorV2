@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"objViruspath","path":"objects/objViruspath/objViruspath.yy",},"order":23,},
     {"id":{"name":"objzombie","path":"objects/objzombie/objzombie.yy",},"order":19,},
     {"id":{"name":"RoomCredits","path":"rooms/RoomCredits/RoomCredits.yy",},"order":7,},
     {"id":{"name":"KnightClimb","path":"scripts/KnightClimb/KnightClimb.yy",},"order":3,},
@@ -42,7 +43,7 @@
     {"id":{"name":"objPlayButton","path":"objects/objPlayButton/objPlayButton.yy",},"order":12,},
     {"id":{"name":"objblock","path":"objects/objblock/objblock.yy",},"order":1,},
     {"id":{"name":"objCreditsButton","path":"objects/objCreditsButton/objCreditsButton.yy",},"order":13,},
-    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":15,},
+    {"id":{"name":"zombie_path_1","path":"paths/zombie_path_1/zombie_path_1.yy",},"order":15,},
     {"id":{"name":"objzombiedead","path":"objects/objzombiedead/objzombiedead.yy",},"order":20,},
     {"id":{"name":"sprknight","path":"sprites/sprknight/sprknight.yy",},"order":0,},
     {"id":{"name":"sprzombiewalkright","path":"sprites/sprzombiewalkright/sprzombiewalkright.yy",},"order":24,},
@@ -58,6 +59,7 @@
     {"id":{"name":"sprzombieattackreleft","path":"sprites/sprzombieattackreleft/sprzombieattackreleft.yy",},"order":25,},
     {"id":{"name":"sprzombie","path":"sprites/sprzombie/sprzombie.yy",},"order":21,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":7,},
+    {"id":{"name":"virus_path_1","path":"paths/virus_path_1/virus_path_1.yy",},"order":16,},
     {"id":{"name":"sprCreditsButton","path":"sprites/sprCreditsButton/sprCreditsButton.yy",},"order":0,},
     {"id":{"name":"sprzombiedead","path":"sprites/sprzombiedead/sprzombiedead.yy",},"order":22,},
     {"id":{"name":"sprblock","path":"sprites/sprblock/sprblock.yy",},"order":1,},

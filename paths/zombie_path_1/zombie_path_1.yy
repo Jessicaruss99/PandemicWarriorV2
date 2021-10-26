@@ -14,7 +14,7 @@
     "path": "PandemicWarrior.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Path1",
+  "name": "zombie_path_1",
   "tags": [],
   "resourceType": "GMPath",
 }
