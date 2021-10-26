@@ -12,6 +12,23 @@ for (var i = 0; i < lives; i += 1)
 draw_set_halign(fa_left)
 draw_text(55, 55, "Score: " + string(score))
 
+if(room == RoomTutorial){
+draw_text(175, 10, "Tutorial");
+}
+if(room == RoomLevel1){
+	draw_text(175, 10, "Level 1");
+}
+if(room == RoomLevel2){
+		draw_text(175, 10,"Level 2");
+	
+}
+if(room == RoomLevel3){
+		draw_text(175, 10, "Level 3");
+	
+}
+
+
+
 //if (global.game_over) {
 
 //	draw_set_halign(fa_center)
