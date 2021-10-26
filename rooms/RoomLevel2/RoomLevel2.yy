@@ -41,6 +41,8 @@
 ],},"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Foreground","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objblock","path":"objects/objblock/objblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":43.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":672.0,"resourceVersion":"1.0","name":"inst_417DA778_1","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objknight","path":"objects/objknight/objknight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.222857162,"scaleY":0.232000008,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":102.0,"y":608.0,"resourceVersion":"1.0","name":"inst_ED31B13","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objNextLevel","path":"objects/objNextLevel/objNextLevel.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1254.0,"y":640.0,"resourceVersion":"1.0","name":"inst_53598522","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -49,6 +51,8 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_417DA778_1","path":"rooms/RoomLevel2/RoomLevel2.yy",},
+    {"name":"inst_ED31B13","path":"rooms/RoomLevel2/RoomLevel2.yy",},
+    {"name":"inst_53598522","path":"rooms/RoomLevel2/RoomLevel2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
