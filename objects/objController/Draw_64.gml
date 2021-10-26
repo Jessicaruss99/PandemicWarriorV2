@@ -6,7 +6,7 @@ draw_rectangle(50, 5, 150, 45, false)
 /*TODO Write Lives code here */
 for (var i = 0; i < lives; i += 1)
 {
-    draw_sprite(sprLife, 0, (50+24*i), 15);
+    draw_sprite(sprLife, 0, (50+30*i), 15);
 }
 
 draw_set_halign(fa_left)
