@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_knightinjured.wav",
-  "duration": 49.66059,
+  "duration": 2.37,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
