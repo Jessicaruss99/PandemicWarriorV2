@@ -28,7 +28,14 @@ if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, objblock)) {
 
 if (keyboard_check(vk_up)){
 	if(instance_place(x, y+1, objblock)){
+		//if(sprite_index=sprknightwalkright){
+		//	sprite_index=sprknightjumpright
+		//}
+		//if(sprite_index=sprknightwalkleft){
+		//	sprite_index=sprknightjumpleft
+		//}
 		vspeed = jump_height;
+		
 	}
 }
 
@@ -36,6 +43,9 @@ if (keyboard_check(vk_up)){
 	 sprite_index = sprknightwalkleft;
 } else if (keyboard_check(vk_right)){
 	sprite_index = sprknightwalkright;
+
+//else if(keyboard_check(vk_up)){
+//	sprite_index=sprknightjumpleft
 }else{
 sprite_index = sprknight;
 }
