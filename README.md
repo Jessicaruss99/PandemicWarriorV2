@@ -29,7 +29,7 @@ Project 1 for ITCS 5230
 <h2>In Game Screenshots</h2>
 <b>Welcome </b>
 <br>
-![Welcome Screen(https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.png?raw=true)
+![Welcome Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.png?raw=true)
 
 <br>
 <b>Tutorial</b>
