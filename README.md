@@ -73,12 +73,17 @@ By Jessica Russ and Lucas Dickson
 
 <h2>Sounds Used</h2>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="https://opengameart.org/content/menu-music">Welcome Menu</a></li>
+  <li><a href="https://opengameart.org/content/mystical-theme">Tutorial Background & Credits</a></li>
+  <li><a href="https://opengameart.org/content/a-battle-theme-165-bpm">Levels 1-3</a></li>
+  <li><a href="https://opengameart.org/content/won-orchestral-winning-jingle">Win Screen</a></li>
+  <li><a href="https://opengameart.org/content/rpg-title-screen-music-pack">Lose Screen</a></li>
+  <li><a href="https://opengameart.org/content/menu-music">Player Jump</a></li>
+   <li><a href="https://opengameart.org/content/zombies-sound-pack">Zombie & Zombie Death</a></li>
+   <li><a href="https://opengameart.org/content/nes-sounds">Virus</a></li>
+   <li><a href="https://opengameart.org/content/replenish-life-force-sound">Potion</a></li>
+   <li><a href="https://opengameart.org/content/grunts-male-death-and-pain">Player Injury</a></li>
+   <li><a href="https://opengameart.org/content/retro-deaddestroyeddamaged-sound">Player Death</a></li>
 </ul>
 
 
