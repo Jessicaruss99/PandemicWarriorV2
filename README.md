@@ -1,5 +1,6 @@
 <h1>PandemicWarriorV2</h1>
 Project 1 for ITCS 5230
+
 By Jessica Russ and Lucas Dickson
 <br>
 
