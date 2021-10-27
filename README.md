@@ -29,29 +29,34 @@ Project 1 for ITCS 5230
 <h2>In Game Screenshots</h2>
 <b>Welcome </b>
 <br>
-![Welcome Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.png" alt="Welcome Screen">
+
 
 <br>
 <b>Tutorial</b>
 <br>
-![Tutorial Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/tutorial.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/tutorial.png" alt="Tutorial Screen">
+
 
 <br>
-<b>Play</b>
+<b>Main Game Play</b>
 <br>
-![Play Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play.png" alt="Play Screen">
 
 <br>
-<b>Win</b>
+<b>Win Screen</b>
 <br>
-![Win Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/win.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/win.png" alt="Win Screen">
+
 
 <br>
-<b>Lose</b>
+<b>Lose Screen</b>
 <br>
-![Lose Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/lose.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/lose.png" alt="Lose Screen">
+
 
 <br>
-<b>Credits</b>
+<b>Credits Screen</b>
 <br>
-![Credits Screen](https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/credits.png?raw=true)
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/credits.png" alt="Credits Screen">
+
