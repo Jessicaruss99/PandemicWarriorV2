@@ -35,6 +35,7 @@
     {"id":{"name":"sprLife","path":"sprites/sprLife/sprLife.yy",},"order":11,},
     {"id":{"name":"objController","path":"objects/objController/objController.yy",},"order":18,},
     {"id":{"name":"objSignOldInCaseMessUp","path":"objects/objSignOldInCaseMessUp/objSignOldInCaseMessUp.yy",},"order":7,},
+    {"id":{"name":"objHighscoreboard","path":"objects/objHighscoreboard/objHighscoreboard.yy",},"order":26,},
     {"id":{"name":"RoomTutorial","path":"rooms/RoomTutorial/RoomTutorial.yy",},"order":1,},
     {"id":{"name":"sprGameWin","path":"sprites/sprGameWin/sprGameWin.yy",},"order":3,},
     {"id":{"name":"objzombiepath","path":"objects/objzombiepath/objzombiepath.yy",},"order":22,},
