@@ -11,3 +11,6 @@
 //    ini_write_string("Save", "value" + string(i), string(highscore_value(i)));
 //}
 //ini_close();
+
+audio_pause_all()
+audio_play_sound(snd_lose,2,false)
