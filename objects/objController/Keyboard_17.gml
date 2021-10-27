@@ -11,6 +11,7 @@ if(keyboard_check_pressed(ord("G"))){
 }
 if(keyboard_check_pressed(ord("L"))){
 	lives = lives +1;
+	score = score+5;
 }
 if(keyboard_check_pressed(ord("N"))){
 	room_goto_next();
