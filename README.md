@@ -67,6 +67,7 @@ By Jessica Russ and Lucas Dickson
   <li><a href="https://opengameart.org/content/golden-knight-character-sprite">Knight Character</a></li>
   <li><a href="https://opengameart.org/content/golden-knight-sword">Knight Sword</a></li>
   <li><a href="https://opengameart.org/content/zombie-animations">Zombies</a></li>
+  <li><a href="https://opengameart.org/content/virus-various-colors">Virus</a></li>
   <li><a href="https://opengameart.org/content/villagers-sprite-sheets-pixel-art-pack">Villagers</a></li>
   <li><a href="https://opengameart.org/content/arrow-sign">Next Level</a></li>
 </ul>
