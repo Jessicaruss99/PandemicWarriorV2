@@ -3,11 +3,12 @@
 
 lives -= 1
 
+
 if (lives > 0) {
-	//audio_play_sound(snd_knightinjured,1,false);
+	audio_play_sound(snd_knightinjured,1,false);
 	room_restart()
 } else {
-	//audio_play_sound(snd_knightdeath,1,false);
+	audio_play_sound(snd_knightdeath,1,false);
 	myName = get_string("Enter your name for the highscore list: ","Jessica");
 highscore_add(myName,score);
 
