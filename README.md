@@ -60,3 +60,24 @@ Project 1 for ITCS 5230
 <br>
 <img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/credits.png" alt="Credits Screen">
 
+<h2>Assets Used</h2>
+<ul>
+  <li>Map Tileset</li>
+  <li>Knight Character</li>
+  <li>Knight Sword</li>
+  <li>Zombies</li>
+  <li>Viruses</li>
+  <li>Villagers</li>
+</ul>
+
+<h2>Sounds Used</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+
