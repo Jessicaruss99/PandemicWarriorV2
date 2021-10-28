@@ -52,6 +52,7 @@ if (keyboard_check(vk_up)){
 //	sprite_index=sprknightjumpleft
 }else{
 sprite_index = sprknight;
+
 }
 
 
