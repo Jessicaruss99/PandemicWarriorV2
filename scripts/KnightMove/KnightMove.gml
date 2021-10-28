@@ -51,8 +51,8 @@ if (keyboard_check(vk_up)){
 //else if(keyboard_check(vk_up)){
 //	sprite_index=sprknightjumpleft
 }else{
-sprite_index = sprknight;
-
+//sprite_index = sprknight;
+image_speed=0;
 }
 
 
