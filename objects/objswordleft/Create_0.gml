@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (instance_exists(objknight)) {
-
-	x = objknight.x 
-	y = objknight.y
-}
+alarm[0] = swingTimer
+image_xscale = .0625
+image_yscale = .0625
