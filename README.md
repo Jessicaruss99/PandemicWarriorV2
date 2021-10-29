@@ -13,7 +13,7 @@ By Jessica Russ and Lucas Dickson
    <li>Use right arrow key to run to the right</li>
    <li>Use the up arrow key to jump over obstacles such as lava</li>
    <li>Press Z to pull out your sword</li>
-   <li>Collect potions to add an additional life and increase your score</li>
+   <li>Collect potions to increase your score, speed, size and add an additional life,  </li>
    <li>Kill zombies and viruses and make your way to the final room to find the cure and save everyone</li>
 </ul>
 
