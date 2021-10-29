@@ -4,6 +4,7 @@ function KnightClimb(){
 	vspeed = 0
 	gravity = 0
 	sprite_index = sprClimb
+	image_speed = 1;
 	move_speed = 4
 	show_debug_message(y)
 	

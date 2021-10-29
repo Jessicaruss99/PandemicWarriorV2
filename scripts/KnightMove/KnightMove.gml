@@ -3,15 +3,13 @@
 function KnightMove(){
 	move_speed = 4
 
-if (keyboard_check_pressed(ord("1"))) {
-	instance_create_layer(x, y, "Instances", objsword)	
-}
+
 if(keyboard_check_pressed(ord("Z"))){
 	if(sprite_index == sprknightwalkleft){
-		instance_create_layer(x,y,"Instances", objswordleft)
+		instance_create_layer(x, y, "Instances", objswordleft)
 	}
 	else{
-		instance_create_layer(x,y,"Instances", objsword)
+		instance_create_layer(x, y, "Instances", objsword)
 	}
 }
 
