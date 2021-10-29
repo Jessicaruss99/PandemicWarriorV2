@@ -22,4 +22,5 @@ if (lives > 0) {
 //ini_close();
 //	global.game_over = true
 //	room_goto(RoomGameOverLose);
+
 }
