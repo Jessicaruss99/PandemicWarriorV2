@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_xscale = .225
-image_yscale = .225
+//image_xscale = .225
+//image_yscale = .225

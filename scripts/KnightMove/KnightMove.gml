@@ -1,7 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function KnightMove(){
-	move_speed = 4
+	move_speed = objknight.move_speed
 
 
 if(keyboard_check_pressed(ord("Z"))){
