@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprpotion",
-    "path": "sprites/sprpotion/sprpotion.yy",
+    "name": "sprpotiongreen",
+    "path": "sprites/sprpotiongreen/sprpotiongreen.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objpotion",
+  "name": "objpotiongreen",
   "tags": [],
   "resourceType": "GMObject",
 }
