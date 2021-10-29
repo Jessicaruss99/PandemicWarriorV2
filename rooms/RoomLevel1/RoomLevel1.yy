@@ -49,6 +49,8 @@
         {"properties":[
             {"propertyId":{"name":"text","path":"objects/objSign/objSign.yy",},"objectId":{"name":"objSign","path":"objects/objSign/objSign.yy",},"value":"\"It looks like the sign isnt here. Try looking inside that cave\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objSign","path":"objects/objSign/objSign.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":-2.33333349,"scaleY":2.33333325,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1856.0,"y":672.0,"resourceVersion":"1.0","name":"inst_3D81EECF","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objAcid","path":"objects/objAcid/objAcid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.0,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1472.0,"y":832.0,"resourceVersion":"1.0","name":"inst_7162DE20","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objAcid","path":"objects/objAcid/objAcid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":928.0,"resourceVersion":"1.0","name":"inst_59E6C3D4","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"sprBackground5","path":"sprites/sprBackground5/sprBackground5.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
     {"spriteId":{"name":"sprBackground4","path":"sprites/sprBackground4/sprBackground4.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Backgrounds_1","tags":[],"resourceType":"GMRBackgroundLayer",},
@@ -88,6 +90,8 @@
     {"name":"inst_36377643","path":"rooms/RoomLevel1/RoomLevel1.yy",},
     {"name":"inst_1F17F894","path":"rooms/RoomLevel1/RoomLevel1.yy",},
     {"name":"inst_3D81EECF","path":"rooms/RoomLevel1/RoomLevel1.yy",},
+    {"name":"inst_7162DE20","path":"rooms/RoomLevel1/RoomLevel1.yy",},
+    {"name":"inst_59E6C3D4","path":"rooms/RoomLevel1/RoomLevel1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
