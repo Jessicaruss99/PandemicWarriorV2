@@ -3,10 +3,13 @@
 
 lives -= 1
 instance_create_layer(x,y,"Instances", objknightdead);
+//image_index = sprknightdead
 
 if (lives > 0) {
-	audio_play_sound(snd_knightinjured,1,false);
+	audio_play_sound(snd_knightinjured, 1, false);
 	room_restart()
+	//alarm_set(10, 15)
+	
 } else {
 	audio_play_sound(snd_knightdeath,1,false);
 	myName = get_string("Enter your name for the highscore list: ","Jessica");
