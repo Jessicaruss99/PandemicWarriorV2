@@ -7,4 +7,5 @@
 //alarm_set(2, 10)
 
 potionYellow = false
+
 event_perform(ev_draw, 0)

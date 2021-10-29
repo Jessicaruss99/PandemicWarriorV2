@@ -4,7 +4,7 @@
 objknight.y = objknight.y -132;
 objknight.image_xscale = 2;
 objknight.image_yscale = 2;
-
+objknight.jump_height = -16;
 //objsword.image_xscale =2;
 //objsword.image_yscale =2;
 //objswordleft.image_xscale =2;
