@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 lives -= 1
-
+instance_create_layer(x,y,"Instances", objknightdead);
 
 if (lives > 0) {
 	audio_play_sound(snd_knightinjured,1,false);

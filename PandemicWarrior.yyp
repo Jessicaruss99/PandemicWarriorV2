@@ -86,6 +86,7 @@
     {"id":{"name":"sprLadder","path":"sprites/sprLadder/sprLadder.yy",},"order":3,},
     {"id":{"name":"RoomLevel2","path":"rooms/RoomLevel2/RoomLevel2.yy",},"order":8,},
     {"id":{"name":"fontSign","path":"fonts/fontSign/fontSign.yy",},"order":0,},
+    {"id":{"name":"sprknightdead","path":"sprites/sprknightdead/sprknightdead.yy",},"order":38,},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},"order":2,},
     {"id":{"name":"sprMarker","path":"sprites/sprMarker/sprMarker.yy",},"order":4,},
     {"id":{"name":"sprCreditscreen","path":"sprites/sprCreditscreen/sprCreditscreen.yy",},"order":2,},
