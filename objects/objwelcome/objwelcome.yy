@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Screens_Buttons",
+    "path": "folders/Objects/Screens_Buttons.yy",
   },
   "resourceVersion": "1.0",
   "name": "objwelcome",

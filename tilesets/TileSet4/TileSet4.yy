@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite41",
-    "path": "sprites/Sprite41/Sprite41.yy",
+    "name": "sprBack3",
+    "path": "sprites/sprBack3/sprBack3.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,

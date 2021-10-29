@@ -7,6 +7,10 @@ depth = 0
 
 gravity_direction = 270;
 
+//_uniColor = shader_get_uniform(shdrColorOverlay, "u_color")
+//_color = 
+
+
 
 if(room = RoomTutorial or room = RoomCredits){
 	audio_play_sound(snd_tutorial, 1, true)
