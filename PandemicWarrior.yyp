@@ -56,6 +56,7 @@
     {"id":{"name":"sprknightjumpright","path":"sprites/sprknightjumpright/sprknightjumpright.yy",},"order":27,},
     {"id":{"name":"sprBack3","path":"sprites/sprBack3/sprBack3.yy",},"order":6,},
     {"id":{"name":"sprpotiongreen","path":"sprites/sprpotiongreen/sprpotiongreen.yy",},"order":35,},
+    {"id":{"name":"Path4","path":"paths/Path4/Path4.yy",},"order":15,},
     {"id":{"name":"objHome","path":"objects/objHome/objHome.yy",},"order":4,},
     {"id":{"name":"objSign","path":"objects/objSign/objSign.yy",},"order":2,},
     {"id":{"name":"snd_potion","path":"sounds/snd_potion/snd_potion.yy",},"order":10,},
