@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_colour($FFBFFBFF);
-draw_rectangle(50, 5, 250, 45, false)
+//draw_rectangle(50, 5, 250, 45, false)
 
 /*TODO Write Lives code here */
 for (var i = 0; i < lives; i += 1)

@@ -5,6 +5,7 @@ function KnightClimb(){
 	gravity = 0
 	sprite_index = sprClimb
 	move_speed = 4
+	show_debug_message(y)
 	
 	if (keyboard_check(vk_up)){
 		y += -climbSpeed

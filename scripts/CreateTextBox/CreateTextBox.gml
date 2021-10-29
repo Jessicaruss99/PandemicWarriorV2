@@ -14,5 +14,6 @@ function CreateTextBox(){
 	
 	draw_sprite(argument0, 0, xD+20, yD+300)
 
-	draw_text_ext(xD+30, yD+310, argument3, 24, 590)
+	draw_set_color(c_black)
+	draw_text_ext(xD+30, yD+305, argument3, 24, 580)
 }

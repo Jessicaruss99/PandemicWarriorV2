@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //show_debug_message("ZOMBIE PATH ")
-show_debug_message(direction)
+//show_debug_message(direction)
 
 if(direction == 180){
 	sprite_index = sprzombiewalkleft

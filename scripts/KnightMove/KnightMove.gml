@@ -11,7 +11,7 @@ if(keyboard_check_pressed(ord("Z"))){
 		instance_create_layer(x,y,"Instances", objswordleft)
 	}
 	else{
-	instance_create_layer(x,y,"Instances", objsword)
+		instance_create_layer(x,y,"Instances", objsword)
 	}
 }
 
@@ -48,7 +48,7 @@ if (keyboard_check(vk_up)){
 	}
 }
 
- if(keyboard_check(vk_left)){
+if(keyboard_check(vk_left)){
 	 sprite_index = sprknightwalkleft;
 } else if (keyboard_check(vk_right)){
 	sprite_index = sprknightwalkright;
@@ -62,13 +62,8 @@ image_speed=0;
 
 
 if(instance_place(x, y+1, objblock)){
-		gravity = 0;
-	} else {
-		gravity = .5;
-	}
-	
-//	if(keyboard_check_pressed(ord("Z"))){
-//	instance_create_layer(x,y,"Instances", objsword)
-//}
-
+	gravity = 0;
+} else {
+	gravity = .5;
+}
 }
