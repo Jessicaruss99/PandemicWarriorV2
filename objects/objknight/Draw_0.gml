@@ -7,17 +7,17 @@ if (potionBlue == true) {
 	shader_reset()
 } 
 
-else if(potionYellow ==true){
+else if(potionYellow == true){
 	shader_set(Shader2)
 	draw_self()
 	shader_reset()
 }
-else if(potionRed ==true){
+else if(potionRed == true){
 	shader_set(Shader3)
 	draw_self()
 	shader_reset()
 }
-else if(potionGreen ==true){
+else if(potionGreen == true){
 	shader_set(Shader4)
 	draw_self()
 	shader_reset()

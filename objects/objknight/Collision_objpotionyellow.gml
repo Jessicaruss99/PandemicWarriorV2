@@ -7,12 +7,9 @@ instance_destroy(other);
 //objknight.image_xscale = 2;
 //objknight.image_yscale = 2;
 
-
 potionYellow = true
 event_perform(ev_draw, 0)
 alarm_set(1, 50)
 alarm_set(3, 10)
 
-
-
-	audio_play_sound(snd_potion,4, false);
+audio_play_sound(snd_potion,4, false);

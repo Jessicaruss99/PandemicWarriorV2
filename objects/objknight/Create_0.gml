@@ -17,5 +17,5 @@ if(room = RoomTutorial or room = RoomCredits){
 }
 
 if(room = RoomLevel1 or room = RoomLevel2 or room = RoomLevel3 ){
-	audio_play_sound(snd_mainlevels, 1, true)
+	//audio_play_sound(snd_mainlevels, 1, true)
 }
