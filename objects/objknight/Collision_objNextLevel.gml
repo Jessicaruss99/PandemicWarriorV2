@@ -12,5 +12,5 @@ if(room == RoomLevel2){
 	room_goto(RoomLevel3);
 }
 if(room == RoomLevel3){
-	room_goto(RoomGameOverWin);
+	room_goto(RoomLevel4);
 }

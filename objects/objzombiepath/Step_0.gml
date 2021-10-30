@@ -14,23 +14,16 @@ if(direction == 180){
 	sprite_index = sprzombieattackreleft;
 }
 
-//if(instance_exists(objknight)){
-//	if(distance_to_object(objknight)<aggro_range){
-//		path_end();
-//		direction = point_direction(x,y,objknight.x, objknight.y);
-//		speed = hsp;
-//	}
-//	else{
-		
-//	}
-//}
-
-//if path_position=1{
-	
-//	if(sprite_index = sprzombiewalkright){
-//		sprite_index = sprzombiewalkleft
-//	}else{
-		
-//	sprite_index = sprzombiewalkright;
-//	}
-//}
+if(instance_exists(objknight)){
+	show_debug_message("Dis: ")
+	show_debug_message(distance_to_object(objknight))
+	if(distance_to_object(objknight) < aggro_range){
+		path_end();
+		sprite_index = sprzombieattackreleft
+		direction = point_direction(x, y, objknight.x, objknight.y);
+		speed = hsp;
+		if(distance_to_object(objknight) > aggro_range) {
+			path_start(walk_path, hsp, path_action_continue, true)
+		}
+	}
+}
