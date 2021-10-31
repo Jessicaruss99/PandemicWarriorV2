@@ -15,5 +15,5 @@ function CreateBackgroundTextBox(){
 	draw_sprite(argument0, 0, xD+20, yD+130)
 
 	draw_set_color(c_black)
-	draw_text_ext(xD+40, yD+150, argument3, 24, 580)
+	draw_text_ext(xD+40, yD+150, argument3, 24, 570)
 }

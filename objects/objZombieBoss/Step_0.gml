@@ -26,7 +26,7 @@ if(instance_exists(objknight)){
 			event_perform(ev_draw, 0)
 			
 			alarm_set(1, 30)
-			alarm_set(0, 240)
+			alarm_set(0, 180)
 		}
 	}
 }
