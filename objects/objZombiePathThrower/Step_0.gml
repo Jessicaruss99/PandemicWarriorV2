@@ -14,6 +14,7 @@ if(instance_exists(objknight)){
 	if(distance_to_object(objknight) < aggro_range){
 		sprite_index = sprzombieattackreleft
 		if(sludgeThrown == false) {
+			audio_play_sound(snd_zombie, 2, true)
 			instance_create_layer(x,y,"Instances", objSludge)
 			sludgeThrown = true
 			alarm_set(0, 120)

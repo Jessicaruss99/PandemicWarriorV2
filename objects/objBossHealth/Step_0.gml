@@ -1,5 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-audio_stop_sound(snd_welcome);
-
-room_goto(RoomTutorial);
+event_perform(ev_draw, 0)

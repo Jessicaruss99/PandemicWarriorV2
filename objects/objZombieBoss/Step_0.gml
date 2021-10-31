@@ -19,6 +19,8 @@ if(instance_exists(objknight)){
 		}
 		
 		if(sludgeThrown == false) {
+			audio_play_sound(snd_zombie, 2, true)
+			
 			sludgeThrown = true
 			zomFlash = true
 			event_perform(ev_draw, 0)

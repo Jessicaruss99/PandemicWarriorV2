@@ -13,25 +13,14 @@ draw_set_halign(fa_left)
 draw_text(55, 45, "Score: " + string(score))
 
 if(room == RoomTutorial){
-draw_text(175, 45, "Tutorial");
-
+	draw_text(175, 45, "Tutorial");
 }
 if(room == RoomLevel1){
 	draw_text(175, 45, "Level 1");
 }
 if(room == RoomLevel2){
-		draw_text(175, 45,"Level 2");
-	
+	draw_text(175, 45,"Level 2");
 }
 if(room == RoomLevel3){
-		draw_text(175, 45, "Level 3");
-	
+	draw_text(175, 45, "Level 3");
 }
-
-
-
-//if (global.game_over) {
-
-//	draw_set_halign(fa_center)
-//	draw_text(room_width / 2, room_height / 2, "Game Over! Press R to restart.")
-//}
