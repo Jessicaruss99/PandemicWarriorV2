@@ -1,1 +1,1 @@
-global.msg =false;
+global.msg = false;
