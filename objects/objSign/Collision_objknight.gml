@@ -2,7 +2,9 @@
 // You can write your code in this editor
 
 if (keyboard_check_released(vk_enter)) {
-	show_debug_message(text)
+	show_debug_message(layer_exists("First"))
+	
+	//layer_exists("First")
 	
 	with (instance_create_layer(x+32, y+32, "First", objSignText)) {
 		message = other.text

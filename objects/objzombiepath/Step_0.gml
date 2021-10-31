@@ -15,8 +15,8 @@ if(direction == 180){
 }
 
 if(instance_exists(objknight)){
-	show_debug_message("Dis: ")
-	show_debug_message(distance_to_object(objknight))
+	//show_debug_message("Dis: ")
+	//show_debug_message(distance_to_object(objknight))
 	if(distance_to_object(objknight) < aggro_range){
 		path_end();
 		sprite_index = sprzombieattackreleft
