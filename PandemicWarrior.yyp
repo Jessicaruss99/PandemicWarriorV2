@@ -162,10 +162,10 @@
     {"roomId":{"name":"RoomLevel1","path":"rooms/RoomLevel1/RoomLevel1.yy",},},
     {"roomId":{"name":"RoomLevel2","path":"rooms/RoomLevel2/RoomLevel2.yy",},},
     {"roomId":{"name":"RoomLevel3","path":"rooms/RoomLevel3/RoomLevel3.yy",},},
+    {"roomId":{"name":"RoomLevel4","path":"rooms/RoomLevel4/RoomLevel4.yy",},},
     {"roomId":{"name":"RoomGameOverWin","path":"rooms/RoomGameOverWin/RoomGameOverWin.yy",},},
     {"roomId":{"name":"RoomCredits","path":"rooms/RoomCredits/RoomCredits.yy",},},
     {"roomId":{"name":"RoomGameOverLose","path":"rooms/RoomGameOverLose/RoomGameOverLose.yy",},},
-    {"roomId":{"name":"RoomLevel4","path":"rooms/RoomLevel4/RoomLevel4.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
