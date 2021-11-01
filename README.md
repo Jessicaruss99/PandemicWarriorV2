@@ -43,7 +43,14 @@ By Jessica Russ and Lucas Dickson
 <br>
 <b>Main Game Play</b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play.png" alt="Play Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play1.PNG" alt="Play Screen">
+<br>
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play2.PNG" alt="Play Screen">
+
+<br>
+<b>Final Boss</b>
+<br>
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/boss.png" alt="Boss Screen">
 
 <br>
 <b>Win Screen</b>
