@@ -31,7 +31,7 @@ By Jessica Russ and Lucas Dickson
 <h2>In Game Screenshots</h2>
 <b>Welcome </b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.png" alt="Welcome Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/welcome.PNG" alt="Welcome Screen">
 
 
 <br>
