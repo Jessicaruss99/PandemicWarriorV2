@@ -5,7 +5,7 @@ By Jessica Russ and Lucas Dickson
 <br>
 
 <h2>Description</h2>
-<p>Pandemic Warrior is a single person action adventure platformer game, available on PC and intended for teens. Throughout this game, the player acts as the protagonist, an unnamed knight. This knight has to travel through multiple realms defeating zombies and deadly viruses, collecting health potions to stay alive, all to get to the final realm where the cure is hidden to save the day. </p>
+<p>Pandemic Warrior is a single person action adventure platformer game, available on PC and intended for teens. Throughout this game, the player acts as the protagonist, an unnamed knight. This knight has to travel through multiple realms defeating deadly zombies, collecting health potions to stay alive, all to get to the final realm where the cure is hidden to save the day. </p>
 
 <h2>How to Play</h2>
 <ul>
@@ -47,27 +47,23 @@ By Jessica Russ and Lucas Dickson
 <br>
 <img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/play2.PNG" alt="Play Screen">
 
-<br>
-<b>Final Boss</b>
-<br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/boss.png" alt="Boss Screen">
 
 <br>
 <b>Win Screen</b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/win.png" alt="Win Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/win.PNG" alt="Win Screen">
 
 
 <br>
 <b>Lose Screen</b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/lose.png" alt="Lose Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/lose.PNG" alt="Lose Screen">
 
 
 <br>
 <b>Credits Screen</b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/credits.png" alt="Credits Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/credits.PNG" alt="Credits Screen">
 
 <h2>Assets Used</h2>
 <ul>
