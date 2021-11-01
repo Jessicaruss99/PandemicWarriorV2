@@ -37,7 +37,7 @@ By Jessica Russ and Lucas Dickson
 <br>
 <b>Tutorial</b>
 <br>
-<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/tutorial.png" alt="Tutorial Screen">
+<img src="https://github.com/Jessicaruss99/PandemicWarriorV2/blob/main/readmeimages/tutorial.PNG" alt="Tutorial Screen">
 
 
 <br>
